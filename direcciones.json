@@ -1,0 +1,146 @@
+{
+  "ciudades":[{
+    "Quito":[{
+      "lugar":"QUITO - SUR (MATRIZ)",
+      "direccion":"Av. Mariscal Sucre S27-252 y Diego Céspedes.",
+      "telefono":" (02) 382 0580 ext:1001 / Cel 098 905 8165",
+      "latitude":"-0.2754356430685837",
+      "long":"-78.55272666749825"
+    },
+    {
+      "lugar":"QUITO - SUR (MASCOTA)",
+      "direccion":"Av. Rodrigo de Chávez 1399 y Av. Mariscal Sucre.",
+      "telefono":"(02) 382 0580 ext:1502 / Cel 098 857 5787",
+      "latitude":"-0.2363607054654656",
+      "long":"-78.52689973743648"
+    },
+    {
+      "lugar":"QUITO - SUR (GUAJALÓ)",
+      "direccion":"Av. Pedro Vicente Maldonado S43-35 y Calle 5",
+      "telefono":"(02) 382 0580 ext:1121 / Cel 099 189 8890",
+      "latitude":"-0.30821196123637773",
+      "long":"-78.54433383069333"
+    },
+    {
+      "lugar":"QUITO - BASÍLICA",
+      "direccion":"Venezuela 1536 y Galápagos.",
+      "telefono":"(02) 382 0580 ext:1301 / Cel 098 600 5115",
+      "latitude":"-0.21596387193173597",
+      "long":"-78.50802783069176"
+    },
+    {
+      "lugar":"QUITO - COMITE DEL PUEBLO",
+      "direccion":"Av. N59 Juan Molineros E10-17 y Calle.",
+      "telefono":"(02) 382 0580 ext:1201 / Cel 098 468 5124",
+      "latitude":"-0.1285897352106075",
+      "long":"-78.47254102331402"
+    },
+      {
+      "lugar":"QUITO - MARIANITAS",
+      "direccion":"Calle Giovanni Calles Lascano y Cacha",
+      "telefono":"(02) 382 0580 ext:1151 / Cel 095 889 2179",
+      "latitude":"-0.0893117373521606",
+      "long":"-78.4287466147559"
+    },
+    {
+      "lugar":"QUITO - VALLE DE LOS CHILLOS",
+      "direccion":"Ilaló S5-92 y Río Corrientes.",
+      "telefono":"(02) 382 0580 ext:1401 / Cel 098 468 5173",
+      "latitude":"-0.2981337456294554",
+      "long":"-78.456677235591"
+    }
+    ],
+    "Sangolqui":[{
+      "lugar":"SANGOLQUÍ - El Colibrí",
+      "direccion":"E35 Vía Hacienda Cashapamba",
+      "telefono":"(02) 382 0580 ext:1151 / Cel 0980335613 ",
+      "latitude":"-0.33446319758423493",
+      "long":"-78.43442665334649"
+    }],
+    "Santo Domingo":[{
+      "lugar":"SANTO DOMINGO (VIA QUEVEDO)",
+      "direccion":"Vía Quevedo s/n Km. 3-1/2.",
+      "telefono":"(02) 382 0580 ext:1601 / Cel 098 728 2337",
+      "latitude":"-0.27234112482823014",
+      "long":"-79.19789933280305"
+    },{
+      "lugar":"SANTO DOMINGO CENTRO",
+      "direccion":"Av. Esmeraldas y Tiputini (esquina)",
+      "telefono":"(02) 382 0580 ext:1132 / Cel 099 717 4189",
+      "latitude":" -0.24737313210279427",
+      "long":"-79.1740906364864"
+    }],
+    "Ambato":[{
+      "lugar":"AMBATO",
+      "direccion":"Av. Quis Quis N15-179 y Atahualpa.",
+      "telefono":"(02) 382 0580 ext:1702 / Cel 098 468 6475",
+      "latitude":"-1.2524376258722487",
+      "long":"-78.63227368220967"
+    },{
+      "lugar":"AMBATO POLIDEPORTIVO",
+      "direccion":"Av. Bolivariana y Paltacalo (Sector Polideportivo).",
+      "telefono":"(02) 382 0580 ext:1112 / Cel 098 851 1985",
+      "latitude":"-1.2616921397353082",
+      "long":"-78.6128968306884"
+    }],
+    "El Coca":[{
+      "lugar":"EL COCA - AEROPUERTO",
+      "direccion":"Av. Alejandro Labaka lote 01-02 y Papayos.",
+      "telefono":"(02) 382 0580 ext:3802 / Cel 098 728 0204",
+      "latitude":"-0.45727115854740497",
+      "long":"-76.98813453516023"
+    },{
+      "lugar":"EL COCA - CENTRO",
+      "direccion":"Av. 9 de Octubre y Limón Cocha.",
+      "telefono":"(02) 382 0580 ext:3803 / Cel 098 603 9400",
+      "latitude":"-0.45431257995472796",
+      "long":"-76.99464323671265"
+    }],
+    "Lago Agrio":[{
+      "lugar":"LAGO AGRIO",
+      "direccion":"Av.Rio Aguarico lote 8 y Cesar Villacis.",
+      "telefono":"(02) 382 0580 ext:3101 / Cel 098 468 8164",
+      "latitude":"0.07202166745030708",
+      "long":"-76.88975367915296"
+    }],
+    "Portoviejo":[{
+      "lugar":"PORTOVIEJO",
+      "direccion":"Vía Crucita, Portoviejo, calle A educadores amigos y amistad, barrio ciudadela el maestro, parroquia 18 de octubre.",
+      "telefono":"(02) 382 0580 ext:2142 / Cel 098 701 9489",
+      "latitude":"-1.0362015900947725",
+      "long":" -80.46355077545721"
+    }]
+    ,
+    "Manta":[{
+      "lugar":"MANTA",
+      "direccion":"Av. de la Cultura (junto al Ecopark)",
+      "telefono":"PBX (02)382 0580 Ext. 2005 / 099 780 6949",
+      "latitude":"-0.960188248002066",
+      "long":"-80.73245890344508"
+    }],
+    "Chone":[{
+      "lugar":"CHONE",
+      "direccion":"Av. By pass y Callejón 6, frente a Ambacar",
+      "telefono":"PBX (02)382 0580 Ext. 2171 / 096 906 4456",
+      "latitude":"-0.7082099380844372",
+      "long":"-80.0996066041576"
+    }]
+    ,
+    "Shushufindi":[{
+      "lugar":"SHUSHUFINDI",
+      "direccion":"Av. Aguarico tres y Jumandy B, Los Torritos",
+      "telefono":"(02) 3820 580 Ext. 3191 Cel. 098 603 5000",
+      "latitude":"-0.18093866720912335",
+      "long":"-76.64224013377188"
+    }]
+    ,
+    "El Carmen":[{
+      "lugar":"EL CARMEN",
+      "direccion":"Av. Chone y Calle 21",
+      "telefono":"(02) 382 0580 ext:2161 / Cel 098 395 0232",
+      "latitude":"-0.270473230563621",
+      "long":"-79.46529770552209"
+    }]
+    }]
+
+}
